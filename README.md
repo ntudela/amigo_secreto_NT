@@ -28,7 +28,7 @@ Instalación y ejecución
 
 Clona este repositorio o descarga los archivos en tu máquina local.
 
-git clone https://github.com/usuario/amigo-secreto.git
+git clone https://github.com/ntudela/amigo_secreto_NT
 
 Abre el archivo index.html en un navegador web.
 
